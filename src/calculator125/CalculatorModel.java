@@ -22,6 +22,6 @@ public class CalculatorModel {
 	
     public int getCalculationValue() {
 		
-	return calculationValue; //+1		
+	return calculationValue;	
     }	
 } // end CalculatorModel
